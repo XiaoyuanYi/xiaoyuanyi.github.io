@@ -1,0 +1,38 @@
+---
+---
+<div class="row bib-simple">
+  <div class="col-sm-12">
+    <div class="title">
+    {{ entry.title }}
+    {%- if entry.award -%}
+        <span class="award-badge"> <span style="color: red;">[{{ (entry.award_name) }} Paper]</span></span>
+    {%- endif -%}
+    </div>
+    <div class="author">
+      {% if entry.author %}
+        {% assign authors = entry.author | split: ' and ' %}
+        {% for author in authors %}
+          {% assign name_parts = author | split: ', ' %}
+          {% if name_parts.size == 2 %}
+            {% assign full_name = name_parts[1] | append: ' ' | append: name_parts[0] | strip %}
+          {% else %}
+            {% assign full_name = author | strip %}
+          {% endif %}
+          {% if full_name == site.scholar.name or full_name contains site.first_name and full_name contains site.last_name %}
+            <span class="author-highlight">{{ full_name }}</span>
+          {% else %}
+            {{ full_name }}
+          {% endif %}
+          {% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      {% endif %}
+    </div>
+    <div class="periodical">
+      {% if entry.booktitle %}<em>{{ entry.booktitle }}</em>{% elsif entry.journal %}<em>{{ entry.journal }}</em>{% endif %}{% if entry.year %}, {{ entry.year }}{% endif %}
+      {% if entry.pdf or entry.code or entry.arxiv or entry.doi %}
+        <span class="links-inline">{% if entry.pdf %}[<a href="{{ entry.pdf | relative_url }}" target="_blank"> PDF</a>]{% endif %}{% if entry.code %}[<a href="{{ entry.code }}" target="_blank"> Code</a>]{% endif %}{% if entry.doi %}[<a href="https://doi.org/{{ entry.doi }}" target="_blank">DOI</a>]{% endif %}
+        </span>
+      {% endif %}
+    </div>
+  </div>
+</div>

@@ -96,20 +96,87 @@ cv:
           - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Best Paper Award of ICSC 2025
+        date: 2025
+        awarder: The 6th International Conference on Social Computing
+      
+      - title: Best Paper Award of ADMA 2025 
+        date: 2025
+        awarder: The 21st International Conference on Advanced Data Mining and Applications (ADMA2025) 
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: SAC Highlight of ACL 2025
+        date: 2025
+        awarder: The 63rd Annual Meeting of the Association for Computational Linguistics
+      
+      - title: Top 10 Highly Cited Papers of Journal of Computer Research and Development in 2023
+        date: 2024
+        awarder: Journal of Computer Research and Development
+
+      
+      - title: Raising Star of Social Computing Award of CAAI
+        date: 2024
+        awarder: Chinese Association for Artificial Intelligence (CAAI)
+        summary: Awarded for about ten young researchers in recognition of their academic achievements in social computing.
+
+      - title: Outstanding Doctoral Dissertation Award of CCF
+        date: 2022
+        awarder: China Computer Federation (CCF)
+        summary: Awarded for only ten computer science PhD graduates across China in recognition of their exceptional academic achievements and impact.
+
+      - title: Rising Star Award of IJCAI Young Elite Symposium
+        date: 2021 
+        awarder: International Joint Conferences on Artificial Intelligence - Shanghai Artificial Intelligence Association
+        summary: Awarded for three outstanding young researchers each year.
+
+
+      - title: Excellent Graduate Student
+        date: 2021 
+        awarder: Beijing City
+      
+      - title: Excellent PhD Thesis
+        date: 2021 
+        awarder: Tsinghua University
+
+      - title: Siebel Scholar
+        date: 2019 
+        awarder: Thomas and Stacey Siebel Foundation
+        summary: Awarded for only 90-100 talented students at schools of business, computer science, bioengineering, and energy science in the United States, China, France, Italy, and Japan each year
+
+      - title: Best Demo Award
+        date: 2019 
+        awarder: China National Conference on Computational Linguistics (CCL 2019)
+        summary: Awarded for Jiuge (九歌) V2.0 system.
+      
+      - title: The 10 Most Influential People on the Internet (新华网年度十大网络人物)
+        date: 2018 
+        awarder: Xinhua Net
+
+      - title: Best Paper Award
+        date: 2018 
+        awarder: China National Conference on Computational Linguistics (CCL 2018)
+      
+      - title: First Class Scholarship for Graduate Students
+        date: 2018 
+        awarder: Tsinghua University
+      
+      - title: Best Demo Award
+        date: 2017 
+        awarder: China National Conference on Computational Linguistics (CCL 2017)
+        summary: Awarded for Jiuge (九歌) V1.0 system.
+      
+      - title: Excellent Graduate Student
+        date: 2016 
+        awarder: Beijing City
+      
+      - title: Top Ten Outstanding Youth of Haidian District (海淀区十大杰出青年)
+        date: 2016 
+        awarder: Haidian District, Beijing City
+
+      - title: Supreme Scholarship for the Undergraduate (本科生特等奖学金)
+        date: 2015 
+        awarder: Tsinghua University
+        summary: Awarded to only 10 undergraduate students among 3500+ students each year for outstanding performance and contributions to the university.
+
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
