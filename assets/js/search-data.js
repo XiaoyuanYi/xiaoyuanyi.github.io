@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/service/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Highlighted Research Projects",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-group",
           title: "Group",
           description: "Group Members and Collaborators",
@@ -78,20 +85,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-valuelex-paper-received-the-best-paper-award-international-conference-on-social-computing",
-          title: 'Our ValueLex paper received the best paper award International Conference on Social Computing!...',
+            },},{id: "news-valuelex-paper-received-the-best-paper-award-at-international-conference-on-social-computing",
+          title: 'ValueLex paper received the best paper award at International Conference on Social Computing!...',
           description: "",
           section: "News",},{id: "news-our-adaem-paper-was-selected-as-an-oral-paper-at-iclr-2026",
           title: 'Our AdAEM paper was selected as an oral paper at ICLR 2026! 👏🏻...',
           description: "",
           section: "News",},{id: "projects-value-compass",
           title: 'Value Compass',
-          description: "a project that redirects to another website",
+          description: "Achieving human-AI symbiotic societal through value alignment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-jiuge",
+          title: 'Jiuge',
+          description: "Empowering literature through generative AI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "teachings-data-science-fundamentals",
