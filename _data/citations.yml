@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-03'
 papers:
   BdpXcLgAAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -222,7 +222,7 @@ papers:
     title: Benchmarking retrieval-augmented generation in multi-modal contexts
     year: '2025'
   BdpXcLgAAAAJ:eQOLeE2rZwMC:
-    citations: 27
+    citations: 28
     title: Neural quality estimation with multiple hypotheses for grammatical error correction
     year: '2021'
   BdpXcLgAAAAJ:g5m5HwL7SMYC:
@@ -254,7 +254,7 @@ papers:
     title: 'AdAEM: An Adaptively and Automated Extensible Measurement of LLMs'' Value Difference'
     year: '2025'
   BdpXcLgAAAAJ:kNdYIx-mwKoC:
-    citations: 5561
+    citations: 5562
     title: A survey on evaluation of large language models
     year: '2023'
   BdpXcLgAAAAJ:k_IJM867U9cC:
