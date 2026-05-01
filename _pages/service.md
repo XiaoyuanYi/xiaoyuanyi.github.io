@@ -22,6 +22,9 @@ description: Academic and Social Service
   - NLPCC (2021)
   - CCL (2020: Best Reviewer)
 
+- Area Chair:
+  - ICML (2026)
+
 
 #### Supervision
 
