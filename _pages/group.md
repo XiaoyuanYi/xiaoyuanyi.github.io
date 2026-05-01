@@ -21,7 +21,7 @@ description: Group Members and Collaborators
 
 #### Previous Interns
 
-- [Yuzhuo Bai], PhD @ Tsinghua U. 2025.11 – 2026.03.
+- Yuzhuo Bai, PhD @ Tsinghua U. 2025.11 – 2026.03.
   - Topics: LLM Value Evaluation
 
 - [Zhaowei Zhang](http://zowiezhang.github.io/), PhD @ Peking U. 2025.09 – 2026.01.
