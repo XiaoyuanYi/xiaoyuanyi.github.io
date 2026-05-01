@@ -13,23 +13,31 @@ description: Group Members and Collaborators
 - Qinlin Zhao, MSRA-USTC joint Ph.D student (co-mentored with Prof. Xing Xie). 2025.04 – Present.
   - Topics: Evaluation of LLMs
 
-- Yuzhuo Bai, PhD @ Tsinghua U. 2025.11 – Present.
+- YeongJun Hwang, PhD @ Sungkyunkwan U. 2026.03 – Present.
+  - Topics: Alignment of LLMs
+
+- Lihao Sun, Bachelor @ UChicago. 2026.04 – Present.
   - Topics: Alignment of LLMs
 
 #### Previous Interns
 
+- [Yuzhuo Bai], PhD @ Tsinghua U. 2025.11 – 2026.03.
+  - Topics: LLM Value Evaluation
+
 - [Zhaowei Zhang](http://zowiezhang.github.io/), PhD @ Peking U. 2025.09 – 2026.01.
   - Topics: Alignment of LLM
+  - Outcomes: [Diversity Alignment](https://arxiv.org/pdf/2603.10588)
 
 - San Kim, PhD @ POSTECH. 2025.07 – 2025.12.
   - Topics: Morality of LLMs
 
 - [Jaehyeok Lee](https://jaehyeoklee-119.github.io/), PhD @ Sungkyunkwan U. 2025.07 – 2025.12.
   - Topics: Cultural Value of LLMs
-  - Outcomes: [Unintended Harms (ACL 2025 Oral+Panel)](https://arxiv.org/pdf/2506.06404?) 
+  - Outcomes: [Unintended Harms (ACL 2025 Oral+Panel)](https://arxiv.org/pdf/2506.06404?), [DOVE (ICML 2026)](https://arxiv.org/pdf/2604.06210) 
 
 - Xiangxu Zhang, PhD @ Remin U. 2025.03 – 2025.09.
   - Topics: Social Simulation of LLMs
+  - Outcomes: [Value Driven LLM Agent Simulation](https://arxiv.org/pdf/2604.05339)
 
 - Yanxu Zhu, Master @ Beijing Jiaotong U. 2024.10 – 2025.03.
   - Topics: Honesty of LLM
