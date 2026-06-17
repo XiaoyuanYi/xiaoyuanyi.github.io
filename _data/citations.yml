@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-17'
 papers:
   BdpXcLgAAAAJ:-f6ydRqryjwC:
     citations: 26
@@ -30,11 +30,15 @@ papers:
     title: Can Persona-Prompted LLMs Emulate Subgroup Values? An Empirical Analysis of Generalisability and Fairness in Cultural Alignment
     year: '2026'
   BdpXcLgAAAAJ:4JMBOYKVnBMC:
-    citations: 8
+    citations: 9
     title: 'CAReDiO: Cultural Alignment of LLM via Representativeness and Distinctiveness Guided Data Optimization'
     year: '2025'
+  BdpXcLgAAAAJ:4OULZ7Gr8RgC:
+    citations: 0
+    title: 'Rethinking Diversity-Preserving RL for Pluralistic Alignment: Empirical Evidence from Rubric-Grounded Moral Reasoning'
+    year: Unknown Year
   BdpXcLgAAAAJ:4TOpqqG69KYC:
-    citations: 56
+    citations: 59
     title: 'Cdeval: A benchmark for measuring the cultural dimensions of large language models'
     year: '2024'
   BdpXcLgAAAAJ:5nxA0vEk-isC:
@@ -46,7 +50,7 @@ papers:
     title: Generative Personality Simulation via Theory-Informed Structured Interview
     year: '2025'
   BdpXcLgAAAAJ:9ZlFYXVOiuMC:
-    citations: 32
+    citations: 31
     title: 'On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models'
     year: '2024'
   BdpXcLgAAAAJ:9yKSN-GCB0IC:
@@ -86,7 +90,7 @@ papers:
     title: 'NAMeGEn: Creative Name Generation via A Novel Agent-based Multiple Personalized Goal Enhancement Framework'
     year: '2025'
   BdpXcLgAAAAJ:KlAtU1dfN6UC:
-    citations: 80
+    citations: 82
     title: From Instructions to Intrinsic Human Values--A Survey of Alignment Goals for Big Models
     year: '2023'
   BdpXcLgAAAAJ:L8Ckcad2t8MC:
@@ -102,11 +106,11 @@ papers:
     title: Knowing Your Uncertainty--On the application of LLM in social sciences
     year: '2025'
   BdpXcLgAAAAJ:M3NEmzRMIkIC:
-    citations: 3
+    citations: 4
     title: 'MoHoBench: Assessing Honesty of Multimodal Large Language Models via Unanswerable Visual Questions'
     year: '2026'
   BdpXcLgAAAAJ:M3ejUd6NZC8C:
-    citations: 30
+    citations: 31
     title: 'ToViLaG: Your Visual-Language Generative Model is Also An Evildoer'
     year: '2023'
   BdpXcLgAAAAJ:MXK_kJrjxJIC:
@@ -122,7 +126,7 @@ papers:
     title: On the Dynamics of Multi-Agent LLM Communities Driven by Value Diversity
     year: '2025'
   BdpXcLgAAAAJ:O3NaXMp0MMsC:
-    citations: 2
+    citations: 3
     title: 'MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation'
     year: '2025'
   BdpXcLgAAAAJ:QIV2ME_5wuYC:
@@ -158,7 +162,7 @@ papers:
     title: Unpacking the Ethical Value Alignment in Big Models
     year: '2023'
   BdpXcLgAAAAJ:UebtZRa9Y70C:
-    citations: 32
+    citations: 31
     title: Self-explaining deep models with logic rule reasoning
     year: '2022'
   BdpXcLgAAAAJ:W7OEmFMy1HYC:
@@ -178,7 +182,7 @@ papers:
     title: Toward faithful and human-aligned self-explanation of deep models
     year: '2025'
   BdpXcLgAAAAJ:YOwf2qJgpHMC:
-    citations: 39
+    citations: 40
     title: 'Knowledge Plugins: Enhancing Large Language Models for Domain-Specific Recommendations'
     year: '2023'
   BdpXcLgAAAAJ:YsMSGLbcyi4C:
@@ -190,7 +194,7 @@ papers:
     title: Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook
     year: '2026'
   BdpXcLgAAAAJ:ZeXyd9-uunAC:
-    citations: 33
+    citations: 34
     title: 'Clave: An adaptive framework for evaluating values of llm generated responses'
     year: '2025'
   BdpXcLgAAAAJ:Zph67rFs4hoC:
@@ -206,11 +210,11 @@ papers:
     title: Research on Superalignment Should Advance Now with Parallel Optimization of Competence and Conformity
     year: '2025'
   BdpXcLgAAAAJ:_kc_bZDykSQC:
-    citations: 90
+    citations: 91
     title: 'Value FULCRA: Mapping large language models to the multidimensional spectrum of basic human value'
     year: '2024'
   BdpXcLgAAAAJ:aqlVkmm33-oC:
-    citations: 70
+    citations: 73
     title: 'ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph'
     year: '2024'
   BdpXcLgAAAAJ:bEWYMUwI8FkC:
@@ -241,10 +245,6 @@ papers:
     citations: 0
     title: Uplifting Human Decision Making in AI Evaluation by Automating Benchmark Validity Analysis
     year: Unknown Year
-  BdpXcLgAAAAJ:g5m5HwL7SMYC:
-    citations: 0
-    title: Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning
-    year: '2026'
   BdpXcLgAAAAJ:hFOr9nPyWt4C:
     citations: 32
     title: 'The Road to Artificial SuperIntelligence: A Comprehensive Survey of Superalignment'
@@ -266,7 +266,7 @@ papers:
     title: 'AdAEM: An Adaptively and Automated Extensible Measurement of LLMs'' Value Difference'
     year: '2025'
   BdpXcLgAAAAJ:kNdYIx-mwKoC:
-    citations: 6066
+    citations: 6150
     title: A survey on evaluation of large language models
     year: '2023'
   BdpXcLgAAAAJ:k_IJM867U9cC:
@@ -290,7 +290,7 @@ papers:
     title: Automatic Poetry Generation with Mutual Reinforcement Learning
     year: '2018'
   BdpXcLgAAAAJ:r0BpntZqJG4C:
-    citations: 16
+    citations: 17
     title: 'Unintended harms of value-aligned LLMs: Psychological and empirical insights'
     year: '2025'
   BdpXcLgAAAAJ:rO6llkc54NcC:
@@ -298,7 +298,7 @@ papers:
     title: "Legal\u2206: Enhancing Legal Reasoning in LLMS via Reinforcement Learning with Chain-Of-Thought Guided Information Gain"
     year: '2026'
   BdpXcLgAAAAJ:roLk4NBRz8UC:
-    citations: 14
+    citations: 15
     title: Clickbait Detection via Contrastive Variational Modelling of Text and Label
     year: '2022'
   BdpXcLgAAAAJ:u-x6o8ySG0sC:
