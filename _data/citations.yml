@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-17'
 papers:
   BdpXcLgAAAAJ:-f6ydRqryjwC:
     citations: 28
@@ -38,7 +38,7 @@ papers:
     title: 'Rethinking Diversity-Preserving RL for Pluralistic Alignment: Empirical Evidence from Rubric-Grounded Moral Reasoning'
     year: '2026'
   BdpXcLgAAAAJ:4TOpqqG69KYC:
-    citations: 62
+    citations: 61
     title: 'Cdeval: A benchmark for measuring the cultural dimensions of large language models'
     year: '2024'
   BdpXcLgAAAAJ:5nxA0vEk-isC:
@@ -69,10 +69,6 @@ papers:
     citations: 3
     title: 'Leveraging Implicit Sentiments: Enhancing Reliability and Validity in Psychological Trait Evaluation of LLMs'
     year: '2025'
-  BdpXcLgAAAAJ:HoB7MX3m0LUC:
-    citations: 4
-    title: 'Position: Science of AI Evaluation Requires Item-level Benchmark Data'
-    year: '2026'
   BdpXcLgAAAAJ:IWHjjKOFINEC:
     citations: 3
     title: 'Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization'
@@ -122,7 +118,7 @@ papers:
     title: 'Chunks as arms: Multi-armed bandit-guided sampling for long-context llm preference optimization'
     year: '2026'
   BdpXcLgAAAAJ:NaGl4SEjCO4C:
-    citations: 0
+    citations: 1
     title: On the Dynamics of Multi-Agent LLM Communities Driven by Value Diversity
     year: '2025'
   BdpXcLgAAAAJ:QIV2ME_5wuYC:
@@ -190,7 +186,7 @@ papers:
     title: Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook
     year: '2026'
   BdpXcLgAAAAJ:ZeXyd9-uunAC:
-    citations: 36
+    citations: 37
     title: 'Clave: An adaptive framework for evaluating values of llm generated responses'
     year: '2025'
   BdpXcLgAAAAJ:Zph67rFs4hoC:
@@ -206,7 +202,7 @@ papers:
     title: Research on Superalignment Should Advance Now with Parallel Optimization of Competence and Conformity
     year: '2025'
   BdpXcLgAAAAJ:_kc_bZDykSQC:
-    citations: 98
+    citations: 99
     title: 'Value FULCRA: Mapping large language models to the multidimensional spectrum of basic human value'
     year: '2024'
   BdpXcLgAAAAJ:a0OBvERweLwC:
@@ -226,7 +222,7 @@ papers:
     title: 'Irote: Human-like traits elicitation of large language model via in-context self-reflective optimization'
     year: '2026'
   BdpXcLgAAAAJ:cFHS6HbyZ2cC:
-    citations: 3
+    citations: 4
     title: 'MMAC: A Multilingual, Multimodal Alignment Framework for Cultural Grounding Evaluation'
     year: '2026'
   BdpXcLgAAAAJ:d1gkVwhDpl0C:
@@ -242,11 +238,11 @@ papers:
     title: Multi-evidence based fact verification via a confidential graph neural network
     year: '2024'
   BdpXcLgAAAAJ:e5wmG9Sq2KIC:
-    citations: 16
+    citations: 17
     title: Benchmarking retrieval-augmented generation in multi-modal contexts
     year: '2025'
   BdpXcLgAAAAJ:eQOLeE2rZwMC:
-    citations: 29
+    citations: 30
     title: Neural quality estimation with multiple hypotheses for grammatical error correction
     year: '2021'
   BdpXcLgAAAAJ:fPk4N6BV_jEC:
@@ -274,7 +270,7 @@ papers:
     title: 'AdAEM: An Adaptively and Automated Extensible Measurement of LLMs'' Value Difference'
     year: '2025'
   BdpXcLgAAAAJ:kNdYIx-mwKoC:
-    citations: 6312
+    citations: 6356
     title: A survey on evaluation of large language models
     year: '2023'
   BdpXcLgAAAAJ:k_IJM867U9cC:
@@ -318,7 +314,7 @@ papers:
     title: Chinese Poetry Generation with a Working Memory Model.
     year: '2018'
   BdpXcLgAAAAJ:u_35RYKgDlwC:
-    citations: 0
+    citations: 4
     title: AI evaluation should require standardized item-level data releases
     year: '2026'
   BdpXcLgAAAAJ:yD5IFk8b50cC:
