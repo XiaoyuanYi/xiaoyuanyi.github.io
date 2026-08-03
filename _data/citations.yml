@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-08-03'
 papers:
   BdpXcLgAAAAJ:-f6ydRqryjwC:
     citations: 28
@@ -10,15 +10,15 @@ papers:
     title: 'Evade the trap of mediocrity: Promoting diversity and novelty in text generation via concentrating attention'
     year: '2022'
   BdpXcLgAAAAJ:2P1L_qKh6hAC:
-    citations: 4
+    citations: 5
     title: 'LegalDuet: Learning Fine-Grained Representations for Legal Judgment Prediction via a Dual-View Contrastive Learning'
     year: '2025'
   BdpXcLgAAAAJ:2osOgNQ5qMEC:
-    citations: 73
+    citations: 74
     title: Stylistic Chinese Poetry Generation via Unsupervised Style Disentanglement
     year: '2018'
   BdpXcLgAAAAJ:35N4QoGY0k4C:
-    citations: 0
+    citations: 1
     title: 'Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models'
     year: '2025'
   BdpXcLgAAAAJ:3fE2CSJIrl8C:
@@ -26,7 +26,7 @@ papers:
     title: 'KEST: Kernel Distance Based Efficient Self-Training for Improving Controllable Text Generation'
     year: '2023'
   BdpXcLgAAAAJ:3s1wT3WcHBgC:
-    citations: 1
+    citations: 2
     title: Can Persona-Prompted LLMs Emulate Subgroup Values? An Empirical Analysis of Generalisability and Fairness in Cultural Alignment
     year: '2026'
   BdpXcLgAAAAJ:4JMBOYKVnBMC:
@@ -38,7 +38,7 @@ papers:
     title: 'Rethinking Diversity-Preserving RL for Pluralistic Alignment: Empirical Evidence from Rubric-Grounded Moral Reasoning'
     year: '2026'
   BdpXcLgAAAAJ:4TOpqqG69KYC:
-    citations: 61
+    citations: 63
     title: 'Cdeval: A benchmark for measuring the cultural dimensions of large language models'
     year: '2024'
   BdpXcLgAAAAJ:5nxA0vEk-isC:
@@ -50,7 +50,7 @@ papers:
     title: Generative Personality Simulation via Theory-Informed Structured Interview
     year: '2025'
   BdpXcLgAAAAJ:9ZlFYXVOiuMC:
-    citations: 33
+    citations: 31
     title: 'On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models'
     year: '2024'
   BdpXcLgAAAAJ:9yKSN-GCB0IC:
@@ -58,11 +58,11 @@ papers:
     title: Chinese poetry generation with a salient-clue mechanism
     year: '2018'
   BdpXcLgAAAAJ:BqipwSGYUEgC:
-    citations: 0
+    citations: 1
     title: 'The Morality of Probability: How Implicit Moral Biases in LLMs May Shape the Future of Human-AI Symbiosis'
     year: '2025'
   BdpXcLgAAAAJ:GnPB-g6toBAC:
-    citations: 8
+    citations: 9
     title: 'MoVa: Towards Generalizable Classification of Human Morals and Values'
     year: '2025'
   BdpXcLgAAAAJ:HDshCWvjkbEC:
@@ -74,7 +74,7 @@ papers:
     title: 'Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization'
     year: '2024'
   BdpXcLgAAAAJ:IjCSPb-OGe4C:
-    citations: 93
+    citations: 89
     title: Sentiment-Controllable Chinese Poetry Generation
     year: '2019'
   BdpXcLgAAAAJ:JV2RwH3_ST0C:
@@ -86,11 +86,11 @@ papers:
     title: 'NAMeGEn: Creative Name Generation via A Novel Agent-based Multiple Personalized Goal Enhancement Framework'
     year: '2025'
   BdpXcLgAAAAJ:KlAtU1dfN6UC:
-    citations: 83
+    citations: 84
     title: From Instructions to Intrinsic Human Values--A Survey of Alignment Goals for Big Models
     year: '2023'
   BdpXcLgAAAAJ:L8Ckcad2t8MC:
-    citations: 26
+    citations: 27
     title: 'Raising the bar: Investigating the values of large language models via generative evolving testing'
     year: '2024'
   BdpXcLgAAAAJ:LkGwnXOMwfcC:
@@ -106,15 +106,15 @@ papers:
     title: 'MoHoBench: Assessing Honesty of Multimodal Large Language Models via Unanswerable Visual Questions'
     year: '2026'
   BdpXcLgAAAAJ:M3ejUd6NZC8C:
-    citations: 32
+    citations: 31
     title: 'ToViLaG: Your Visual-Language Generative Model is Also An Evildoer'
     year: '2023'
   BdpXcLgAAAAJ:MXK_kJrjxJIC:
-    citations: 7
+    citations: 8
     title: Efficient Cross-Lingual Transfer for Chinese Stable Diffusion with Images as Pivots
     year: '2023'
   BdpXcLgAAAAJ:NMxIlDl6LWMC:
-    citations: 4
+    citations: 6
     title: 'Chunks as arms: Multi-armed bandit-guided sampling for long-context llm preference optimization'
     year: '2026'
   BdpXcLgAAAAJ:NaGl4SEjCO4C:
@@ -130,7 +130,7 @@ papers:
     title: 'PIP-KAG: Mitigating knowledge conflicts in knowledge-augmented generation via parametric pruning'
     year: '2025'
   BdpXcLgAAAAJ:RGFaLdJalmkC:
-    citations: 8
+    citations: 10
     title: 'Parammute: Suppressing knowledge-critical ffns for faithful retrieval-augmented generation'
     year: '2026'
   BdpXcLgAAAAJ:RHpTSmoSYBkC:
@@ -138,7 +138,7 @@ papers:
     title: 'Societal AI: Research Challenges and Opportunities'
     year: '2025'
   BdpXcLgAAAAJ:Se3iqnhoufwC:
-    citations: 55
+    citations: 56
     title: Unified Detoxifying and Debiasing in Language Generation via Inference-time Adaptive Optimization
     year: '2022'
   BdpXcLgAAAAJ:SeFeTyx0c_EC:
@@ -146,15 +146,15 @@ papers:
     title: 'Human Values Matter: Investigating How Misalignment Shapes Collective Behaviors in LLM Agent Communities'
     year: '2026'
   BdpXcLgAAAAJ:Tyk-4Ss8FVUC:
-    citations: 53
+    citations: 52
     title: 'MixPoet: Diverse poetry generation via learning controllable mixed latent space'
     year: '2020'
   BdpXcLgAAAAJ:ULOm3_A8WrAC:
-    citations: 29
+    citations: 31
     title: Unpacking the Ethical Value Alignment in Big Models
     year: '2023'
   BdpXcLgAAAAJ:UebtZRa9Y70C:
-    citations: 31
+    citations: 32
     title: Self-explaining deep models with logic rule reasoning
     year: '2022'
   BdpXcLgAAAAJ:W7OEmFMy1HYC:
@@ -166,7 +166,7 @@ papers:
     title: 'CCPM: A Chinese Classical Poetry Matching Dataset'
     year: '2021'
   BdpXcLgAAAAJ:Y0pCki6q_DkC:
-    citations: 80
+    citations: 77
     title: Text style transfer via learning style instance supported latent space
     year: '2021'
   BdpXcLgAAAAJ:YFjsv_pBGBYC:
@@ -186,19 +186,19 @@ papers:
     title: Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook
     year: '2026'
   BdpXcLgAAAAJ:ZeXyd9-uunAC:
-    citations: 37
+    citations: 35
     title: 'Clave: An adaptive framework for evaluating values of llm generated responses'
     year: '2025'
   BdpXcLgAAAAJ:Zph67rFs4hoC:
-    citations: 44
+    citations: 43
     title: 'Denevil: Towards Deciphering and Navigating the Ethical Values of Large Language Models via Instruction Learning'
     year: '2023'
   BdpXcLgAAAAJ:_FxGoFyzp5QC:
-    citations: 29
+    citations: 30
     title: Fuse It More Deeply! A Variational Transformer with Layer-Wise Latent Variable Inference for Text Generation
     year: '2022'
   BdpXcLgAAAAJ:_Qo2XoVZTnwC:
-    citations: 2
+    citations: 3
     title: Research on Superalignment Should Advance Now with Parallel Optimization of Competence and Conformity
     year: '2025'
   BdpXcLgAAAAJ:_kc_bZDykSQC:
@@ -210,7 +210,7 @@ papers:
     title: Disentangling Consensus and Value-Specific Representations for Controllable Pluralistic Value Alignment of LLMs
     year: '2026'
   BdpXcLgAAAAJ:aqlVkmm33-oC:
-    citations: 76
+    citations: 79
     title: 'ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph'
     year: '2024'
   BdpXcLgAAAAJ:bEWYMUwI8FkC:
@@ -234,7 +234,7 @@ papers:
     title: 'ValueLex: Revealing the Value Structures of Large Language Models'
     year: '2025'
   BdpXcLgAAAAJ:dhFuZR0502QC:
-    citations: 9
+    citations: 8
     title: Multi-evidence based fact verification via a confidential graph neural network
     year: '2024'
   BdpXcLgAAAAJ:e5wmG9Sq2KIC:
@@ -242,9 +242,13 @@ papers:
     title: Benchmarking retrieval-augmented generation in multi-modal contexts
     year: '2025'
   BdpXcLgAAAAJ:eQOLeE2rZwMC:
-    citations: 30
+    citations: 29
     title: Neural quality estimation with multiple hypotheses for grammatical error correction
     year: '2021'
+  BdpXcLgAAAAJ:f2IySw72cVMC:
+    citations: 1
+    title: Research superalignment should advance now with alternating competence and conformity optimization
+    year: '2025'
   BdpXcLgAAAAJ:fPk4N6BV_jEC:
     citations: 0
     title: Uplifting Human Decision Making in AI Evaluation by Automating Benchmark Validity Analysis
@@ -268,9 +272,9 @@ papers:
   BdpXcLgAAAAJ:j3f4tGmQtD8C:
     citations: 5
     title: 'AdAEM: An Adaptively and Automated Extensible Measurement of LLMs'' Value Difference'
-    year: '2025'
+    year: '2026'
   BdpXcLgAAAAJ:kNdYIx-mwKoC:
-    citations: 6356
+    citations: 6426
     title: A survey on evaluation of large language models
     year: '2023'
   BdpXcLgAAAAJ:k_IJM867U9cC:
@@ -278,19 +282,23 @@ papers:
     title: 'Picaco: Pluralistic in-context value alignment of llms via total correlation optimization'
     year: '2025'
   BdpXcLgAAAAJ:ldfaerwXgEUC:
-    citations: 3
+    citations: 2
     title: Contextualized Privacy Defense for LLM Agents
     year: '2026'
   BdpXcLgAAAAJ:maZDTaKrznsC:
-    citations: 5
+    citations: 6
     title: 'Towards Better Value Principles for Large Language Model Alignment: A Systematic Evaluation and Enhancement'
     year: '2025'
   BdpXcLgAAAAJ:ns9cj8rnVeAC:
     citations: 9
     title: Counterfactual reasoning for steerable pluralistic value alignment of large language models
     year: '2026'
+  BdpXcLgAAAAJ:pyW8ca7W8N0C:
+    citations: 0
+    title: Chinese Short-Form Creative Content Generation via Explanation-Oriented Multi-Objective Optimization
+    year: '2025'
   BdpXcLgAAAAJ:qjMakFHDy7sC:
-    citations: 98
+    citations: 97
     title: Automatic Poetry Generation with Mutual Reinforcement Learning
     year: '2018'
   BdpXcLgAAAAJ:r0BpntZqJG4C:
@@ -298,7 +306,7 @@ papers:
     title: 'Unintended harms of value-aligned LLMs: Psychological and empirical insights'
     year: '2025'
   BdpXcLgAAAAJ:rO6llkc54NcC:
-    citations: 11
+    citations: 12
     title: "Legal\u2206: Enhancing Legal Reasoning in LLMS via Reinforcement Learning with Chain-Of-Thought Guided Information Gain"
     year: '2026'
   BdpXcLgAAAAJ:roLk4NBRz8UC:
@@ -306,7 +314,7 @@ papers:
     title: Clickbait Detection via Contrastive Variational Modelling of Text and Label
     year: '2022'
   BdpXcLgAAAAJ:u-x6o8ySG0sC:
-    citations: 147
+    citations: 144
     title: Generating chinese classical poems with rnn encoder-decoder
     year: '2017'
   BdpXcLgAAAAJ:u5HHmVD_uO8C:
@@ -322,6 +330,6 @@ papers:
     title: Influence-based Online Experience Selection for Effective RLHF
     year: '2026'
   BdpXcLgAAAAJ:zYLM7Y9cAGgC:
-    citations: 80
+    citations: 78
     title: 'Jiuge: A Human-Machine Collaborative Chinese Classical Poetry Generation System'
     year: '2019'
