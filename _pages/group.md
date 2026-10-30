@@ -10,23 +10,27 @@ description: Group Members and Collaborators
 
 #### Current Interns
 
-- Qinlin Zhao, MSRA-USTC joint Ph.D student (co-mentored with Prof. Xing Xie). 2025.04 – Present.
-  - Topics: Evaluation of LLMs
-
-- YeongJun Hwang, PhD @ Sungkyunkwan U. 2026.03 – Present.
-  - Topics: Alignment of LLMs
+- Ziyu Chen, PhD @ Australian National University. 2026.09 – Present.
+  - Topics: LLM Safety Risk
 
 - Lihao Sun, Bachelor @ UChicago. 2026.04 – Present.
   - Topics: Alignment of LLMs
 
 #### Previous Interns
 
+- Qinlin Zhao, MSRA-USTC joint Ph.D student (co-mentored with Prof. Xing Xie). 2025.04 – 2026.10.
+  - Topics: Evaluation of LLMs
+  - Outcomes: [SIRT (EMNLP 2026)](https://aclanthology.org/2026.emnlp-main.2578/)
+
+- [YeongJun Hwang](https://hli.skku.edu/YeongJun_Hwang/), PhD @ Sungkyunkwan U. 2026.03 – 2026.09.
+  - Topics: Alignment Evaluation of LLMs
+
 - Yuzhuo Bai, PhD @ Tsinghua U. 2025.11 – 2026.03.
   - Topics: LLM Value Evaluation
 
 - [Zhaowei Zhang](http://zowiezhang.github.io/), PhD @ Peking U. 2025.09 – 2026.01.
   - Topics: Alignment of LLM
-  - Outcomes: [Diversity Alignment](https://arxiv.org/pdf/2603.10588)
+  - Outcomes: [Diversity Alignment (Workshop @ ICML 2026)](https://arxiv.org/pdf/2603.10588)
 
 - San Kim, PhD @ POSTECH. 2025.07 – 2025.12.
   - Topics: Morality of LLMs
@@ -37,7 +41,7 @@ description: Group Members and Collaborators
 
 - Xiangxu Zhang, PhD @ Remin U. 2025.03 – 2025.09.
   - Topics: Social Simulation of LLMs
-  - Outcomes: [Value Driven LLM Agent Simulation](https://arxiv.org/pdf/2604.05339)
+  - Outcomes: [Crowd Values (Findings of EMNLP 2026)](https://arxiv.org/pdf/2604.05339)
 
 - Yanxu Zhu, Master @ Beijing Jiaotong U. 2024.10 – 2025.03.
   - Topics: Honesty of LLM
@@ -55,7 +59,7 @@ description: Group Members and Collaborators
   - Topics: Value of LLM
   - Outcomes: [Value Diversity](https://arxiv.org/pdf/2512.10665)
 
-- Pablo Biedma, Master @ Tsinghua U. 2024.07 – 2024.09.
+- [Pablo Biedma](https://pablobiedma.github.io/), Master @ Tsinghua U. 2024.07 – 2024.09.
   - Topics: Psychology of LLM
   - Outcomes: [ValueLex (International Conference on Social Computing, Best Paper Award)](https://arxiv.org/pdf/2404.12744) 
 
@@ -81,7 +85,7 @@ description: Group Members and Collaborators
 - Yibo Zhao, BS @ ShanghaiTech U. 2022.10 – 2022.12. After: PhD @ UMD
   - Topics: Detoxicification of LLM
 
-- Xinpeng Wang, PhD @ Tongji U. 2022.07 – 2022.10.
+- [Xinpeng Wang](https://victorup.github.io/), PhD @ Tongji U. 2022.07 – 2022.10.
   - Topics: Detoxicification of LLM, Alignment of LLM
   - Outcomes: [ToViLaG (EMNLP 2023 Oral)](https://arxiv.org/pdf/2312.11523), [Alignment Survey (IJCAI 2024)](https://arxiv.org/pdf/2403.04204), 
 

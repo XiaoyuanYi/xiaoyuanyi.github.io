@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-12-13 15:59:00-0400
+date: 2026-02-07 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-[ValueLex](https://arxiv.org/pdf/2404.12744) paper received the <span style="color: #DC6B82;">best paper award</span> at International Conference on Social Computing! 👏🏻
+Our [AdAEM](https://arxiv.org/pdf/2505.13531) paper was selected as an <span style="color: #DC6B82;">oral paper</span> at ICLR 2026! 👏🏻

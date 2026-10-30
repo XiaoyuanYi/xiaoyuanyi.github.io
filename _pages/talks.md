@@ -7,15 +7,19 @@ nav_order: 7
 description: Invited Talks and Presentations
 ---
 
-### Tutorial & Workshop 
+### Tutorial, Workshop & Lecture 
 
+<span style="color: #008080;">Keynote: I Contain Multitudes: Why Value Pluralism Matters for AI</span>  
+Pluralistic Alignment Workshop, ICML 2026. Invited Keynote Talk. Seoul, Soth Korea. 2026. 07. [[Website]](https://pluralistic-alignment.github.io/)
 
-
-<span style="color: #008080;">Tutorial: AI Meets Values: History, Essence, and Recent Advances of Big Model's Value Alignment</span>  
-IJCAI 2024. Jeju, South Korea. 2024.08. [[Slides]](https://drive.google.com/file/d/1-3y11F5D-eTtyaBAuj_WPTr3AAa-NsSv/view)
+<span style="color: #008080;">Lecture: Alignment Evaluation</span>  
+International Programme on AI Evaluation 2026. Invited Lecture. Online. 2026.03. [[Website]](https://ai-evaluation.org/open-seminars/xiaoyuan-yi)
 
 <span style="color: #008080;">Keynote: On the Risks and Benefits of Human Values for LLMs</span>  
 Trustworthy Knowledge Discovery and Data Mining Workshop, CIKM 2025. Invited Keynote Talk. Seoul, Soth Korea. 2025.11. [[Website]](https://le-wu.com/cikm25-trustkdd-workshop/#schedule)
+
+<span style="color: #008080;">Tutorial: AI Meets Values: History, Essence, and Recent Advances of Big Model's Value Alignment</span>  
+IJCAI 2024. Jeju, South Korea. 2024.08. [[Slides]](https://drive.google.com/file/d/1-3y11F5D-eTtyaBAuj_WPTr3AAa-NsSv/view)
 
 <span style="color: #008080;">Panel: Ethical and Value Challenges of Large Language Models in Human–AI Symbiosis</span>  
 Swarma Club Annual Conference, Invited panelist. Beijing, China. 2023.08. [[Website]](https://swarma.org/?p=44676)
@@ -48,6 +52,13 @@ Academic Session for Youth Professionals @ Chinese Congress on Artificial Intell
 Leifeng Net Talk Series. Online. 2018.09. [[Slides]](/assets/pdf/jiuge_2018.pdf) [[Video]](https://mooc.yanxishe.com/open/course/545?=Leiphone)
 
 #### All Invited Talks
+- Invited Panelist. AI-Enabled Accessibility Development Workshop, CNCC. Chengdu, China. 2026.10
+- Invited Talk. Building an Inclusive and Equitable Digital Research Ecosystem Workshop, CNCC. Chengdu, China. 2026.10
+- Invited Talk @ SKKU. Seoul, South Korea. 2026.10
+- Keynote Speak. Pluralistic Alignment Workshop, ICML. Seoul, Soth Korea. 2026.07
+- Invited Talk @ Fangtang Forum 2026. Beijing, China. 2026.06
+- Invited Talk @ The 2nd Forum on Language Capabilities and Safety Governance of Generative AI. Beijing, China. 2026.05
+- Invited Lecture @ [International Programme on AI Evaluation](https://ai-evaluation.org/). 2026.03
 - Invited Talk @ College of William & Mary. Online. 2026.02
 - Invited Talk. Social Computing Young Scientists Conference, CAAI. Beijing, China. 2025.12
 - Invited Talk @ Beijing Union University. Beijing, China. 2025.12

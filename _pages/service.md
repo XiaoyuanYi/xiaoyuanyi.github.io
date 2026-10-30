@@ -14,7 +14,7 @@ description: Academic and Social Service
   - NeurIPS (2025, 2023)
   - ICML (2025)
   - ACL (2026, 2025, 2023, 2021)
-  - EMNLP (2025, 2024, 2022)
+  - EMNLP (2026, 2025, 2024, 2022)
   - NAACL (2026, 2024, 2022)
   - AAAI (2026, 2023, 2022, 2021)
   - ACM MM (2025)
@@ -22,8 +22,9 @@ description: Academic and Social Service
   - NLPCC (2021)
   - CCL (2020: Best Reviewer)
 
-- Area Chair:
+- Area Chair / Senior Program Committee:
   - ICML (2026)
+  - NeurIPS (2026)
 
 
 #### Supervision
