@@ -52,11 +52,13 @@ Academic Session for Youth Professionals @ Chinese Congress on Artificial Intell
 Leifeng Net Talk Series. Online. 2018.09. [[Slides]](/assets/pdf/jiuge_2018.pdf) [[Video]](https://mooc.yanxishe.com/open/course/545?=Leiphone)
 
 #### All Invited Talks
+- Invited Talk @ THU. Beijing, China. 2026.10
 - Invited Panelist. AI-Enabled Accessibility Development Workshop, CNCC. Chengdu, China. 2026.10
 - Invited Talk. Building an Inclusive and Equitable Digital Research Ecosystem Workshop, CNCC. Chengdu, China. 2026.10
 - Invited Talk @ SKKU. Seoul, South Korea. 2026.10
 - Keynote Speak. Pluralistic Alignment Workshop, ICML. Seoul, Soth Korea. 2026.07
 - Invited Talk @ Fangtang Forum 2026. Beijing, China. 2026.06
+- Invited Talk @ Chinese Information Processing Society of China (CIPS). Online. 2026.06
 - Invited Talk @ The 2nd Forum on Language Capabilities and Safety Governance of Generative AI. Beijing, China. 2026.05
 - Invited Lecture @ [International Programme on AI Evaluation](https://ai-evaluation.org/). 2026.03
 - Invited Talk @ College of William & Mary. Online. 2026.02
